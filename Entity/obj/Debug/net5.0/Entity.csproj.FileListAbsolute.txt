@@ -1,0 +1,15 @@
+D:\Project\c# project\GitHub\MuratYucedag\Entity\bin\Debug\net5.0\Entity.deps.json
+D:\Project\c# project\GitHub\MuratYucedag\Entity\bin\Debug\net5.0\Entity.runtimeconfig.json
+D:\Project\c# project\GitHub\MuratYucedag\Entity\bin\Debug\net5.0\Entity.runtimeconfig.dev.json
+D:\Project\c# project\GitHub\MuratYucedag\Entity\bin\Debug\net5.0\Entity.dll
+D:\Project\c# project\GitHub\MuratYucedag\Entity\bin\Debug\net5.0\ref\Entity.dll
+D:\Project\c# project\GitHub\MuratYucedag\Entity\bin\Debug\net5.0\Entity.pdb
+D:\Project\c# project\GitHub\MuratYucedag\Entity\obj\Debug\net5.0\Entity.csprojAssemblyReference.cache
+D:\Project\c# project\GitHub\MuratYucedag\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\c# project\GitHub\MuratYucedag\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+D:\Project\c# project\GitHub\MuratYucedag\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+D:\Project\c# project\GitHub\MuratYucedag\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+D:\Project\c# project\GitHub\MuratYucedag\Entity\obj\Debug\net5.0\Entity.dll
+D:\Project\c# project\GitHub\MuratYucedag\Entity\obj\Debug\net5.0\ref\Entity.dll
+D:\Project\c# project\GitHub\MuratYucedag\Entity\obj\Debug\net5.0\Entity.pdb
+D:\Project\c# project\GitHub\MuratYucedag\Entity\obj\Debug\net5.0\Entity.genruntimeconfig.cache
